@@ -1,0 +1,14 @@
+				@font-face {
+					font-family: 'georgia';
+					src: url('/wp-content/uploads/useanyfont/190712103831Georgia.woff') format('woff');
+				}
+
+				.georgia{font-family: 'georgia' !important;}
+
+						body{
+					font-family: 'georgia' !important;
+				}
+						p, a{
+					font-family: 'georgia' !important;
+				}
+		
